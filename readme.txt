@@ -27,6 +27,6 @@ cost matrix. Going left gives a 0, going right gives a 1. (Recursion is not need
 
 Compile instructions:
 //gcc lab3.c
-//a.out < lab3fall19a.dat
-//a.out < lab3fall19b.dat
-//a.out < lab3fall19c.dat
+//a.out < lab3fall19.a.dat
+//a.out < lab3fall19.b.dat
+//a.out < lab3fall19.c.dat
