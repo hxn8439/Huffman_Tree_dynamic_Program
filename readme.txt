@@ -24,3 +24,9 @@ You are not required to include the cost matrix in your output.
 optimal matrix multiplication ordering.
 4. Determining the bit string for each character requires navigating a path down the tree stored within the
 cost matrix. Going left gives a 0, going right gives a 1. (Recursion is not needed.)
+
+Compile instructions:
+//gcc lab3.c
+//a.out < lab3fall19a.dat
+//a.out < lab3fall19b.dat
+//a.out < lab3fall19c.dat
